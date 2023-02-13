@@ -1,2 +1,6 @@
-# RickAndMorty-IOS-APP
-# RickAndMorty-IOS-APP
+# Swift Rick & Morty App
+
+# Full featured IOS app showcasing the Rick and Morty API 
+
+  # Written in Swift 
+  
